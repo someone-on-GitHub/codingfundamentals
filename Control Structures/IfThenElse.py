@@ -13,4 +13,3 @@ elif animal == "hippo":
     print("the animal is a hippo")
 else:
     print("I have no idea what this animal is!")
-
